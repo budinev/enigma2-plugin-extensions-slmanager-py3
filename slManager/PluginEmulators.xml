@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+
+<plugins cont="slSoftcam ALL">
+<plugin name="Ccam 2.30 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-cccam-satlodge_2.30_all.ipk"</url></plugin>
+<plugin name="Ccam 2.32 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-cccam-satlodge_2.32_all.ipk"</url></plugin>
+<plugin name="Ccam 2.3.8 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-gbox-satlodge_807_all.ipk"</url></plugin>
+<plugin name="Gcam 2.1 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-gcam-satlodge_2.1_all.ipk"</url></plugin>
+<plugin name="Gcam 2.0 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-gcam-satlodge_2.0_all.ipk"</url></plugin>
+<plugin name="Ncam 10.8 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-ncam-satlodge_10.8_all.ipk"</url></plugin>
+<plugin name="Ncam 10.5 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-ncam-satlodge_10.5_all.ipk"</url></plugin>
+<plugin name="Ncam 1.7 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-ncam-satlodge_1.7-daimon_all.ipk"</url></plugin>
+<plugin name="Oscam 11726 2.5 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-oscam-satlodge_11726_all.ipk"</url></plugin>
+<plugin name="Oscam 11711 2.5 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-oscam-satlodge_11711_all.ipk"</url></plugin>
+<plugin name="Oscam 11704 2.5 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-oscam-satlodge_11704_all.ipk"</url></plugin>
+<plugin name="Oscam 11697 2.5 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-oscam-satlodge_11697_all.ipk"</url></plugin>
+<plugin name="Oscam Emu 11577 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-oscam-emu-satlodge_11577_all.ipk"</url></plugin>
+<plugin name="Oscam Emu 11546 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-oscam-emu-satlodge_11546_all.ipk"</url></plugin>
+<plugin name="Scam 3.60 all"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-scam-satlodge_3.60_all.ipk"</url></plugin>
+<plugin name="Unicam 3.1.0 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-unicam-satlodge_3.1.0_all.ipk"</url></plugin>
+<plugin name="Vicam 2.1 all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin emulator/slManager/softcam-vicam-satlodge_2.1_all.ipk"</url></plugin>
+</plugins>
+
+<plugins cont="slSoftcam ARM">
+<plugin name="Gcam 2.1 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-gcam-arm-satlodge_2.1_all.ipk"</url></plugin>
+<plugin name="Gcam 1.8 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-gcam-arm-satlodge_1.8_all.ipk"</url></plugin>
+<plugin name="Ccam 2.3.2 ARM "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-cccam-arm-satlodge_2.3.2_all.ipk"</url></plugin>
+<plugin name="Ccam 2.3.8 ARM libcrypto "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-cccam-arm-satlodge-libcrypto_2.38_all.ipk"</url></plugin>
+<plugin name="Mgcam 1.35 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-mgcamd-arm-satlodge_135_all.ipk"</url></plugin>
+<plugin name="Ncam 10.8 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-ncam-arm-satlodge_10.8_all.ipk"</url></plugin>
+<plugin name="Ncam 10.5 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-ncam-arm-satlodge_10.5_all.ipk"</url></plugin>
+<plugin name="Ncam 1.7 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-ncam-arm-satlodge_1.7-daimon_all.ipk"</url></plugin>
+<plugin name="Oscam 11942 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-arm-satlodge_11942_all.ipk"</url></plugin>
+<plugin name="Oscam 11936 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-arm-satlodge_11936_all.ipk"</url></plugin>
+<plugin name="Oscam 11918 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-arm-satlodge_11918_all.ipk"</url></plugin>
+<plugin name="Oscam 11913 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-arm-satlodge_11913_all.ipk"</url></plugin>
+<plugin name="Oscam 11906 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-arm-satlodge_11906_all.ipk"</url></plugin>
+<plugin name="Oscam 11902 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-arm-satlodge_11902_all.ipk"</url></plugin>
+<plugin name="Oscam 11891 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-arm-satlodge_11891_all.ipk"</url></plugin>
+<plugin name="Oscam 11886 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-arm-satlodge_11886_all.ipk"</url></plugin>
+<plugin name="Oscam Emu 11943 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscamemu-arm-satlodge_11943_all.ipk"</url></plugin>
+<plugin name="Oscam 11726 MIPS all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-satlodge_11726_all.ipk"</url></plugin>
+<plugin name="Oscam 11399 ARM all "><url>http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/"softcam-oscam-arm-satlodge_11399_all.ipk"</url></plugin>
+<plugin name="Oscam Modern 1521 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscam-modern-arm-satlodge_1521_all.ipk"</url></plugin>
+<plugin name="Oscam Ymod 1859 ARM all "><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/slManager/arm/softcam-oscamymod-arm-satlodge_1859_all.ipk"</url></plugin>
+</plugins>
+
+<plugins cont="Info-Cam">
+<plugin name="CCcam Info 3.0 Marwen"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_v3.0-Marwen_all.ipk"</url></plugin>
+<plugin name="CCcam Info 1.6"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-extensions-cccaminfo-hd_1.6_all.ipk"</url></plugin>
+<plugin name="CCcam Info 1.6 ARM"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-extensions-cccaminfo-hd_1.6_armv7ahf-neon.ipk"</url></plugin>
+<plugin name="CCcam Info 1.5C r0"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.5C-r0_all.ipk"</url></plugin>
+<plugin name="CCcam Info svn 3385"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_svn-3385-r0_all.ipk"</url></plugin>
+<plugin name="DOscam Status 1.0 by Lululla Modded all"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk"</url></plugin>
+<plugin name="Gcam Status 1.0 by Lululla Modded all"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk"</url></plugin>
+<plugin name="Ncam Info v1.1 by Marouan all"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-extensions-ncaminfo_v1.1-Marouan_all.ipk"</url></plugin>
+<plugin name="Oscam Info 2.1 Lululla Modded all"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-systemplugins-oscaminfo_2.1_all.ipk"</url></plugin>
+<plugin name="Oscam Info 0.6 all"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-systemplugins-oscaminfo_0.6_all.ipk"</url></plugin>
+<plugin name="Oscam Status 1.3 FHD all"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_1.3_all.ipk"</url></plugin>
+<plugin name="Oscam Status 0.6 all"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-systemplugins-oscamstatus_0.6a_all.ipk"</url></plugin>
+<plugin name="Oscam Status View 1.0 all"><url>"http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/enigma2-plugin-extensions-oscamstatusview_1.0_all.ipk"</url></plugin>
+<plugin name="Oscam Updater 0.1e mips32el"><url>http://webplusfeeds.sat-lodge.it/developer/home/upload/EnigmaOE2.0/plugin%20emulator/InfoCam/"enigma2-plugin-extensions-oscamupdater_0.1e_mips32el.ipk"</url></plugin>
+</plugins>
+
+</xml>
