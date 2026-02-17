@@ -575,14 +575,34 @@ class tv_config(Screen, ConfigListScreen):
 
             print('===========data=========', url1)
 
-            if url1 != '':
+            if url1:
                 for h, p, u, pw in url1:
-                    print(h, p, u, pw)
-                    host = str(h)
-                    port = str(p)
-                    user = str(u)
-                    password = str(pw)
-                    password = password.replace('</h1>','')
+                    config.plugins.slmanager.hostaddress.value = str(h)
+                    config.plugins.slmanager.port.value = int(p)
+                    config.plugins.slmanager.user.value = str(u)
+                    config.plugins.slmanager.passw.value = str(pw).replace('</h1>','')
+                
+                config.plugins.slmanager.hostaddress.save()
+                config.plugins.slmanager.port.save()
+                config.plugins.slmanager.user.save()
+                config.plugins.slmanager.passw.save()
+                
+        except Exception as e:
+            print('load_getcl error: ', str(e))
+
+def putlblcfg():
+    global putlbl, rstcfg, buttn
+    putlbl = config.plugins.slmanager.cfgfile.value
+    if putlbl == '/etc/CCcam.cfg':
+        rstcfg = '/CCcam.rst'
+        buttn = _('Add CCcam')
+    elif putlbl == '/etc/tuxbox/config/oscam.server':
+        rstcfg = '/oscam.rst'
+        buttn = _('Add Oscam')
+    elif putlbl == '/etc/tuxbox/config/ncam.server':
+        rstcfg = '/ncam.rst'
+        buttn = _('Add Ncam')
+    return
             
 
 
